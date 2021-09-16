@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Typelog, which is a dashboard for publishing to your static blog on GitHub.
 
-✍🏼 Write markdown. 
-🌅 Use your own design and style. 
-📚 Keep your own data, no lock-in. 
-🐹 Written for developers. 
-🌏 Subscribe at http://typelog.dev. 
-🏗️ Keep track of progress on https://twitter.com/typelogdev. 
+- ✍🏼 Write markdown. 
+- 🌅 Use your own design and style. 
+- 📚 Keep your own data, no lock-in. 
+- 🐹 Written for developers. 
+- 🌏 Subscribe at http://typelog.dev. 
+- 🏗️ Keep track of progress on https://twitter.com/typelogdev. 
