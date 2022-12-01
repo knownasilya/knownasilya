@@ -7,7 +7,7 @@
 - 📶 RSS for every feed.
 - 🐹 Written for developers. 
 - 🧑‍🌾 Not a silo (webmentions coming soon)
-- 🌏 Get started at http://typelog.dev. 
+- 🌏 Get started at https://typelog.dev. 
 
 🚧 Want to see progress?
 - 🏗️ Keep track of progress on https://twitter.com/typelogdev or https://typelog.dev/u/knownasilya (RSS available)
