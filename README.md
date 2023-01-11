@@ -11,4 +11,4 @@
 - 🌏 Get started at https://typelog.dev. 
 
 🚧 Want to see progress?
-- 🏗️ Keep track of progress on https://twitter.com/typelogdev or https://typelog.dev/u/knownasilya (RSS available)
+- 🏗️ Keep track of progress on https://twitter.com/typelogdev or https://typelog.dev/u/knownasilya/feeds/typelog-updates (RSS available)
