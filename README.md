@@ -4,8 +4,8 @@
 🔭 I’m currently working on https://typelog.dev, which is a thinking and writing platform for developers.
 
 - ✍🏼 Write markdown (GFM) and leave comments.
-- 📶 RSS for every feed.
 - 🧻 Multiple feeds for whatever.
+- 📶 RSS for every feed.
 - 🐹 Written for developers (syntax highlighting). 
 - 🧑‍🌾 Not a silo (webmentions coming soon).
 - 🌏 Get started at https://typelog.dev. 
