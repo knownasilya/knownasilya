@@ -5,6 +5,7 @@
 
 - ✍🏼 Write markdown (GFM) and leave comments.
 - 📶 RSS for every feed.
+- 🧻 Multiple feeds for whatever.
 - 🐹 Written for developers (syntax highlighting). 
 - 🧑‍🌾 Not a silo (webmentions coming soon).
 - 🌏 Get started at https://typelog.dev. 
