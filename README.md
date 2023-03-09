@@ -6,8 +6,8 @@
 - ✍🏼 Write markdown (GFM) and leave comments.
 - 🧻 Multiple feeds for whatever.
 - 📶 RSS for every feed.
-- 🐹 Written for developers (syntax highlighting). 
-- 🧑‍🌾 Not a silo (webmentions coming soon).
+- 🐹 Written for developers (syntax highlighting, stackblitz, codesandbox and gist embeds). 
+- 📧 Feed backed newsletter.
 - 🌏 Get started at https://typelog.dev. 
 
 🚧 Want to see progress?
